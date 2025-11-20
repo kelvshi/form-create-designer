@@ -65,6 +65,7 @@
         "vue": "^3.1.5",
         "vue-loader": "^15.9.3",
         "vue-style-loader": "^4.1.2",
-        "vue-template-compiler": "^2.6.11"
+        "vue-template-compiler": "^2.6.11",
+        "lerna": "^9.0.1"
     }
 }
